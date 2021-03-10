@@ -1,6 +1,6 @@
 # Ignore Mac system files
 .DS_store
-._*
+._*.html
 # Ignore all text files
 *.txt
 *.mov
